@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Twilio",
+        "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California. Twilio allows software developers to programmatically make and receive phone calls, send and receive text messages, and perform other communication functions using its web service APIs.",
+        "image": "images/twilio.svg",
+        "values": "",
+        "url": "https://increment.com/teams/how-twilio-scaled-its-engineering-structure/",
+        "website": "https://www.twilio.com/"
+    },
+    {
+        "title": "Transferwise",
+        "description": "The cheap, fast way to send money abroad. Join over 7 million people who get the real exchange rate with TransferWise. We’re on average 8x cheaper than leading UK high street banks.",
+        "image": "images/transferwise.svg",
+        "values": "",
+        "url": "https://medium.com/transferwise-ideas/product-engineering-principles-at-transferwise-46a12a47e758",
+        "website": "https://mywebsite.com2"
+    },
+    {
+        "title": "Very Good Security",
+        "description": "Our SaaS solution gives you all the benefits of interacting with sensitive and regulated data without the liability of securing it.",
+        "image": "images/vgs.svg",
+        "values": "",
+        "url": "https://myurl.com3",
+        "website": "https://mywebsite.com3"
+    }
+]
