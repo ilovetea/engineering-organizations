@@ -1,6 +1,6 @@
 # Engineering Organizations
 
-This is a list of organizations with a great engineering culture, their values, and examples of articles on how they're developing that and scale their teams.
+At the heart of every good organization is a strong engineering culture. This is a directory of organizations, their cultures, and values. There is an example article provided with every organization. How they build, maintain, or scale their teams, lessons learned, and success achieved. Have a great time exploring or add your organization so other people can find it.
 
 ## How to add a new organization?
 Open `organizations.json` file and add a new organizations by this template:
