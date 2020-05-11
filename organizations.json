@@ -2,25 +2,28 @@
     {
         "title": "Twilio",
         "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California. Twilio allows software developers to programmatically make and receive phone calls, send and receive text messages, and perform other communication functions using its web service APIs.",
-        "image": "/images/twilio.svg",
-        "values": "",
-        "url": "https://increment.com/teams/how-twilio-scaled-its-engineering-structure/",
+        "image": "images/twilio.svg",
+        "cultureUrl": "https://increment.com/teams/how-twilio-scaled-its-engineering-structure/",
+        "values": "Be an Owner, Empower others, No Shenanigans, Wear the Customer’s Shoes, Write it down, Ruthlessly prioritize, Be bold, Be inclusive, Draw the owl, Don’t settle",
+        "valuesUrl": "https://www.twilio.com/company/values",
         "website": "https://www.twilio.com/"
     },
     {
         "title": "Transferwise",
         "description": "The cheap, fast way to send money abroad. Join over 7 million people who get the real exchange rate with TransferWise. We’re on average 8x cheaper than leading UK high street banks.",
-        "image": "/images/transferwise.svg",
-        "values": "",
-        "url": "https://medium.com/transferwise-ideas/product-engineering-principles-at-transferwise-46a12a47e758",
-        "website": "https://mywebsite.com2"
+        "image": "images/transferwise.svg",
+        "cultureUrl": "https://medium.com/transferwise-ideas/product-engineering-principles-at-transferwise-46a12a47e758",
+        "values": "This isn’t just a job, we’re a revolution. We get it done. Customers > team > ego. No drama. Good karma.",
+        "valuesUrl": "https://transferwise.com/documents/TransferWise-handbook-180702-v12.pdf",
+        "website": "https://transferwise.com/"
     },
     {
         "title": "Very Good Security",
         "description": "Our SaaS solution gives you all the benefits of interacting with sensitive and regulated data without the liability of securing it.",
-        "image": "/images/vgs.svg",
+        "image": "images/vgs.svg",
+        "cultureUrl": "https://www.verygoodsecurity.com/blog/posts/embracing-the-squad-how-we-structured-our-engineering-team-for-growth",
         "values": "",
-        "url": "https://myurl.com3",
-        "website": "https://mywebsite.com3"
+        "valuesUrl": "",
+        "website": "https://www.verygoodsecurity.com/"
     }
 ]
