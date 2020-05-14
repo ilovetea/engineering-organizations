@@ -27,7 +27,7 @@
         "values": [
             "This isn’t just a job, we’re a revolution",
             "We get it done",
-            "Customers > team > ego.",
+            "Customers > team > ego",
             "No drama. Good karma"
         ],
         "valuesUrl": "https://transferwise.com/documents/TransferWise-handbook-180702-v12.pdf",
@@ -39,5 +39,21 @@
         "image": "images/vgs.svg",
         "cultureUrl": "https://www.verygoodsecurity.com/blog/posts/embracing-the-squad-how-we-structured-our-engineering-team-for-growth",
         "website": "https://www.verygoodsecurity.com/"
+    },
+    {
+        "title": "Grammarly",
+        "description": "At Grammarly, we strive to help all people feel heard and understood, whenever and wherever they communicate. More than 20 million people around the world use our AI-powered product every day to strengthen their writing and say what they really mean. Our writing assistant supports clean, mistake-free writing while offering suggestions that go way beyond grammar.",
+        "image": "images/grammarly.png",
+        "cultureUrl": "https://www.grammarly.com/jobs/technology",
+        "values": [
+            "It all starts with being EAGER:",
+            "Ethical",
+            "Adaptable",
+            "Gritty",
+            "Empathetic",
+            "Remarkable"
+        ],
+        "valuesUrl": "https://www.grammarly.com/jobs",
+        "website": "https://www.grammarly.com/"
     }
 ]
