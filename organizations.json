@@ -67,7 +67,12 @@
             "Foster Inclusivity"
         ],
         "valuesUrl": "https://www.figma.com/careers/",
-        "website": "https://www.figma.com/"
+        "website": "https://www.figma.com/",
+        "tags": [
+            "prototyping",
+            "ui",
+            "design"
+        ]
     },
     {
         "title": "Netflix",
@@ -85,6 +90,28 @@
             "Seeking Excellence"
         ],
         "valuesUrl": "https://jobs.netflix.com/culture",
-        "website": "https://www.netflix.com/"
+        "website": "https://www.netflix.com/",
+        "tags": [
+            "streaming"
+        ]
+    },
+    {
+        "title": "CircleCI",
+        "description": "CircleCI is a continuous integration and continuous delivery platform that helps software teams work smarter, faster.",
+        "image": "images/circleci.svg",
+        "cultureUrl": "https://circleci.com/careers/",
+        "values": [
+            "Inclusive, empathetic, and respectful",
+            "Open and transparent",
+            "Ambitious and impact-driven",
+            "Quick and continuous",
+            "Resilient",
+            "Aligned, empowered, and accountable"
+        ],
+        "valuesUrl": "https://circleci.com/careers/",
+        "website": "https://circleci.com/",
+        "tags": [
+            "continuous integration"
+        ]
     }
 ]
