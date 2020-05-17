@@ -55,5 +55,36 @@
         ],
         "valuesUrl": "https://www.grammarly.com/jobs",
         "website": "https://www.grammarly.com/"
+    },
+    {
+        "title": "Figma",
+        "description": "Figma is the collaborative interface design tool.",
+        "image": "images/figma.svg",
+        "cultureUrl": "https://www.figma.com/blog/figmas-engineering-values/",
+        "values": [
+            "Have Fun",
+            "Be Bold",
+            "Foster Inclusivity"
+        ],
+        "valuesUrl": "https://www.figma.com/careers/",
+        "website": "https://www.figma.com/"
+    },
+    {
+        "title": "Netflix",
+        "description": "Netflix, Inc. is an American media-services provider and production company headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California.",
+        "image": "images/netflix.svg",
+        "cultureUrl": "https://jobs.netflix.com/culture",
+        "values": [
+            "Real Values:, Judgment, Communication, Curiosity, Courage, Passion, Selflessness, Innovation, Inclusion, Integrity, Impact",
+            "Dream Team",
+            "Freedom and Responsibility",
+            "Informed Captains",
+            "Disagree Openly",
+            "Context not Control",
+            "Highly Aligned, Loosely Coupled",
+            "Seeking Excellence"
+        ],
+        "valuesUrl": "https://jobs.netflix.com/culture",
+        "website": "https://www.netflix.com/"
     }
 ]
