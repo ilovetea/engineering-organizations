@@ -38,6 +38,14 @@
         "description": "Our SaaS solution gives you all the benefits of interacting with sensitive and regulated data without the liability of securing it.",
         "image": "images/vgs.svg",
         "cultureUrl": "https://www.verygoodsecurity.com/blog/posts/embracing-the-squad-how-we-structured-our-engineering-team-for-growth",
+        "values": [
+            "Security First",
+            "Customer Obsessed  & Mission Driven",
+            "Simple over Complex",
+            "Ship & Refine",
+            "Authentic & Resilient",
+            "Empowered & Distributed"
+        ],
         "website": "https://www.verygoodsecurity.com/"
     },
     {
