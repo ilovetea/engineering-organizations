@@ -36,6 +36,7 @@
     {
         "title": "Very Good Security",
         "description": "Very Good Security is on a mission to protect the world’s sensitive data, enabling innovation while ensuring security and privacy.",
+        "image": "images/vgs.svg",
         "cultureUrl": "https://www.verygoodsecurity.com/blog/posts/embracing-the-squad-how-we-structured-our-engineering-team-for-growth",
         "values": [
             "Security First",
