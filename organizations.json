@@ -121,5 +121,36 @@
         "tags": [
             "continuous integration"
         ]
+    },
+    {
+        "title": "Slack",
+        "description": "Slack is a proprietary business communication platform developed by American software company Slack Technologies. Slack offers many IRC-style features, including persistent chat rooms organized by topic, private groups, and direct messaging.",
+        "image": "images/slack.svg",
+        "cultureUrl": "https://increment.com/teams/how-twilio-scaled-its-engineering-structure/",
+        "values": [
+            "Empathy",
+            "Courtesy",
+            "Thriving",
+            "Craftsmanship",
+            "Playfulness",
+            "Solidarity"
+        ],
+        "valuesUrl": "https://slack.com/intl/en-ua/careers",
+        "website": "https://slack.com/"
+    },
+    {
+        "title": "Spotify",
+        "description": "Spotify is a Swedish music streaming and media services provider. With Spotify, it’s easy to find the right music or podcast for every moment – on your phone, your computer, your tablet and more.",
+        "image": "images/spotify.png",
+        "cultureUrl": "https://engineering.atspotify.com/",
+        "values": [
+            "Innovative",
+            "Sincere",
+            "Passionate",
+            "Collaborative",
+            "Playful"
+        ],
+        "valuesUrl": "https://www.spotifyjobs.com/the-band-manifesto/",
+        "website": "https://www.spotify.com/"
     }
 ]
